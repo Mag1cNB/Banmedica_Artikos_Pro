@@ -1,0 +1,13 @@
+# Logs, auditoria y datos locales/sensibles
+Logs/*.log
+Logs/*.jsonl
+# Preferencias/credenciales y archivos de usuario
+*preferencias*.json
+*.user
+*.suo
+# Artefactos y temporales
+*.tmp
+*.bak
+*.zip
+Thumbs.db
+Desktop.ini
