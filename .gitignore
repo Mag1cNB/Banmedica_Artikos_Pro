@@ -9,5 +9,10 @@ Logs/*.jsonl
 *.tmp
 *.bak
 *.zip
+# Scripts con manejo de token (no versionar)
+Publicar_GitHub.ps1
+Login_GitHub.ps1
+# Configuracion del editor
+.vscode/
 Thumbs.db
 Desktop.ini
